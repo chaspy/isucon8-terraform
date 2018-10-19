@@ -21,7 +21,7 @@ variable "availability_zone" {
 
 variable "images" {
     default = {
-        ap-northeast-1 = "ami-e99f4896"
+        ap-northeast-1 = "ami-6ccaa781"
     }
 }
  
